@@ -46,4 +46,10 @@ For any questions or suggestions, please reach out to:
 - Email: divisaxena04@gmail.com / Divi.107784@stu.upes.ac.in
 - GitHub: [divi_saxena](https://github.com/B97784)
 
+# Mentor
+Dr. Sahinur Rahman Laskar
+Assistant Professor
+School of Computer Science, UPES, Dehradun, India
+Email: sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in
+
 
