@@ -5,16 +5,16 @@
 The Hindi Auto-Complete Word Generator is a dynamic and efficient tool designed to enhance the typing experience in Hindi by suggesting complete words based on user-entered prefixes. This project leverages the Trie data structure for fast and accurate word lookups.
 
 ## Features
-1) Prefix-based word suggestions: Auto-completes words by matching prefixes.
-2) Java GUI: User-friendly graphical interface developed using Java Swing.
-3) Real-time suggestions: Instant word suggestions as users type.
-4) Efficient Trie implementation: Fast search and insertion operations.
-5) Indic language support: Focused on Hindi, with future scope for expanding to other Indic languages.
-6) Database integration: To store user-specific word history for personalized suggestions.
+- Prefix-based word suggestions: Auto-completes words by matching prefixes.
+- Java GUI: User-friendly graphical interface developed using Java Swing.
+- Real-time suggestions: Instant word suggestions as users type.
+- Efficient Trie implementation: Fast search and insertion operations.
+- Indic language support: Focused on Hindi, with future scope for expanding to other Indic languages.
+- Database integration: To store user-specific word history for personalized suggestions.
 
 ## Future Enhancements
-1) Multi-language support: Extending functionality to more Indic languages.
-2) Improved UI: More intuitive design and user interactions.
+- Multi-language support: Extending functionality to more Indic languages.
+- Improved UI: More intuitive design and user interactions.
 
 ## Setup Instructions
 ### Prerequisites
