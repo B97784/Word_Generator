@@ -39,14 +39,14 @@ java HindiAutoComplete
 │   └── hindi_words.txt
 └── README.md
 
-# Contact
+## Contact
 For any questions or suggestions, please reach out to:
 - Name:Divi Saxena
 - Education: B.tech CSE(AIML) , UPES, Dehradun
 - Email: divisaxena04@gmail.com / Divi.107784@stu.upes.ac.in
 - GitHub: [divi_saxena](https://github.com/B97784)
 
-# Mentor
+## Mentor
 Dr. Sahinur Rahman Laskar
 Assistant Professor
 School of Computer Science, UPES, Dehradun, India
