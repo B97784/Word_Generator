@@ -41,10 +41,15 @@ java HindiAutoComplete
 
 ## Contact
 For any questions or suggestions, please reach out to:
-- Name:Divi Saxena
-- Education: B.tech CSE(AIML) , UPES, Dehradun
+- Name: Divi Saxena
+- Education: B.tech CSE(AIML), UPES, Dehradun
 - Email: divisaxena04@gmail.com / Divi.107784@stu.upes.ac.in
 - GitHub: [divi_saxena](https://github.com/B97784)
+
+- Name: Deepanshu Miglani
+- Education: B.tech CSE(AIML), UPES, Dehradun
+- Email: deepanshumiglani0408@gmail.com / Deepanshu.106264@stu.upes.ac.in
+- GitHub: [deepanshu-miglani](https://github.com/deepanshum0408)
 
 ## Mentor
 - Dr. Sahinur Rahman Laskar
