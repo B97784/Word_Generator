@@ -49,7 +49,7 @@ For any questions or suggestions, please reach out to:
 - Name: Deepanshu Miglani
 - Education: B.tech CSE(AIML), UPES, Dehradun
 - Email: deepanshumiglani0408@gmail.com / Deepanshu.106264@stu.upes.ac.in
-- GitHub: [deepanshu-miglani](https://github.com/deepanshum0408)
+- GitHub: [deepanshu_miglani](https://github.com/deepanshum0408)
 
 ## Mentor
 - Dr. Sahinur Rahman Laskar
